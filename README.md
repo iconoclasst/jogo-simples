@@ -1,4 +1,4 @@
-# jogo-simples
+# Jogo-simples
 - Jogo do tipo Platformer feito com PgZero.  
 - Davi Bezerra Yada da Silva  
 
