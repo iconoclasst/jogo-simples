@@ -3,7 +3,7 @@
 - Davi Bezerra Yada da Silva  
 
 # Objetivos
-- Coletar maçãs e chegar ao fim da última fase sem ser derrotado pelos inimigos.  
+- Colete maçãs e chegue ao fim da última fase sem ser derrotado pelos inimigos.  
 - Desvie dos inimigos.  
 - Vença o jogo.  
 
