@@ -170,7 +170,7 @@ class CollectibleItem:
 
 class Enemy:
     def __init__(self, x, y):
-        self.sprites = ["teste", "teste2"]
+        self.sprites = ["enemy1", "enemy2"]
         self.current_sprite = 0
         self.animation_timer = 0
         self.animation_speed = 0.3
