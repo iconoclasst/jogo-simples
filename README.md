@@ -1,6 +1,5 @@
 # Jogo-simples
 - Jogo do tipo Platformer feito com PgZero.  
-- Davi Bezerra Yada da Silva  
 
 # Objetivos
 - Colete maçãs e chegue ao fim da última fase sem ser derrotado pelos inimigos.  
